@@ -1,5 +1,74 @@
+body {
+  font-family: 'Nunito';
+}
+
+.content-container {
+  border-right: 6px solid #00b300;
+}
+
 .skills-contact {
   background-color: #00b300;
-  height: 2000px;
-  border-right: 4px solid black;
+  height: 1580px;
+  color: white;
+}
+
+.name {
+  padding-top: 15px;
+  display: inline-flex;
+}
+
+.first-name {
+  font-weight: 200;
+}
+
+.last-name {
+  font-weight: 900;
+}
+
+.contact-info {
+  padding-top: 20px;
+  font-size: 1.1rem;
+}
+
+.contact-info h3 {
+  background-color: white;
+  color: #00b300;
+  padding: 5px;
+  border-radius: 10px;
+  font-weight: 700;
+  border: 2px solid black;
+}
+
+.contact-info-header {
+  background-color: white;
+  color: #00b300;
+  padding: 5px;
+  border-radius: 10px;
+  font-weight: 700;
+  border: 2px solid black;
+}
+
+.contact-list {
+  list-style-type: none;
+}
+
+.skills {
+  margin-top: 35px;
+}
+
+.skills h3 {
+  background-color: white;
+  color: #00b300;
+  padding: 5px;
+  border-radius: 10px;
+  font-weight: 700;
+  border: 2px solid black;
+}
+
+.skills-list {
+  list-style-type: none;
+}
+
+.skills-list p {
+  font-size: 1.2rem;
 }
