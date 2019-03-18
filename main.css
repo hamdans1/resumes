@@ -72,3 +72,7 @@ body {
 .skills-list p {
   font-size: 1.2rem;
 }
+
+.resume-header {
+  margin-bottom: 30px;
+}
