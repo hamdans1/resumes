@@ -3,11 +3,11 @@ body {
 }
 
 .content-container {
-  border-right: 6px solid #00b300;
+  border-right: 6px solid #214480;
 }
 
 .skills-contact {
-  background-color: #00b300;
+  background-color: #214480;
   height: 1580px;
   color: white;
 }
@@ -32,7 +32,7 @@ body {
 
 .contact-info h3 {
   background-color: white;
-  color: #00b300;
+  color: #214480;
   padding: 5px;
   border-radius: 10px;
   font-weight: 700;
@@ -41,7 +41,7 @@ body {
 
 .contact-info-header {
   background-color: white;
-  color: #00b300;
+  color: #214480;
   padding: 5px;
   border-radius: 10px;
   font-weight: 700;
@@ -58,7 +58,7 @@ body {
 
 .skills h3 {
   background-color: white;
-  color: #00b300;
+  color: #214480;
   padding: 5px;
   border-radius: 10px;
   font-weight: 700;
