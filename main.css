@@ -79,12 +79,16 @@ body {
   padding: 5px;
 }
 
+.divider i {
+  color: #214480;
+}
+
 .work-history {
   margin-top: 25px;
 }
 
 .work-history-entry {
-  margin-bottom: 25px;
+  margin-bottom: 45px;
 }
 .title-place, .location-date {
   font-style: italic;
@@ -92,6 +96,10 @@ body {
 
 .location-date {
   margin-bottom: 5px;
+}
+
+.projects {
+  margin-bottom: 50px;
 }
 
 .education-entry {
