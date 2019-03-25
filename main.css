@@ -89,6 +89,7 @@ body {
 
 .work-history-entry {
   margin-bottom: 45px;
+  padding: 10px;
 }
 .title-place, .location-date {
   font-style: italic;
