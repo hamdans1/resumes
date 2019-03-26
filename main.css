@@ -3,12 +3,13 @@ body {
 }
 
 .content-container {
-  border-bottom: 4px solid #214480;
+  border-top: 6px solid #398CC5;
+  height: 1580px;
 }
 
 .skills-contact {
-  height: 1580px;
-  border-right: 4px solid #214480;
+  height: 1578px;
+  border-right: 6px solid #398CC5;
 }
 
 .name {
@@ -21,7 +22,7 @@ body {
 }
 
 .last-name {
-  font-weight: 900;
+  font-weight: 600;
 }
 
 .contact-info {
@@ -30,7 +31,7 @@ body {
 }
 
 .contact-info h3 {
-  background-color: #214480;
+  background-color: #398CC5;
   padding: 5px;
   border-radius: 10px;
   font-weight: 700;
@@ -39,7 +40,7 @@ body {
 
 .contact-info-header {
   background-color: white;
-  color: #214480;
+  color: #398CC5;
   padding: 5px;
   border-radius: 10px;
   font-weight: 700;
@@ -55,7 +56,7 @@ body {
 }
 
 .skills h3 {
-  background-color: #214480;
+  background-color: #398CC5;
   padding: 5px;
   border-radius: 10px;
   font-weight: 700;
@@ -80,7 +81,7 @@ body {
 }
 
 .divider i {
-  color: #214480;
+  color: #398CC5;
 }
 
 .work-history {
@@ -88,7 +89,7 @@ body {
 }
 
 .work-history-entry {
-  margin-bottom: 45px;
+  margin-bottom: 30px;
   padding: 10px;
 }
 .title-place, .location-date {
@@ -100,8 +101,10 @@ body {
 }
 
 .projects {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
+  padding: 15px;
 }
+
 
 .education-entry {
   margin-top: 10px;
