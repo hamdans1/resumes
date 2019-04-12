@@ -101,8 +101,12 @@ body {
 }
 
 .projects {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   padding: 15px;
+}
+
+.project-header h5 {
+  font-weight: 600;
 }
 
 
